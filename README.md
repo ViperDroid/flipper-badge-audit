@@ -16,7 +16,7 @@
 Almost every Flipper NFC tool exists to **read, clone, or emulate** a card. Badge Audit does the opposite: it **assesses** one. Point it at your office/apartment/gym badge and find out — in seconds — whether that credential is wide open or genuinely protected.
 
 <p align="center">
-  <img src="docs/screen.svg" alt="Badge Audit on a Flipper Zero" width="420">
+  <img src="docs/demo.svg" alt="Badge Audit scanning a card on a Flipper Zero" width="460">
 </p>
 
 ---
